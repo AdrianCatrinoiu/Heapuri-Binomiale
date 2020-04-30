@@ -1,0 +1,73 @@
+Heap 1:
+0 
+4 5 
+1 2 6 9 
+
+
+Heap 2:
+9 
+1 5 7 3 
+
+
+Merge intre heap1 si heap2:
+0 4 5 9 
+1 1 5 7 3 2 6 9 
+
+
+Operatii pentru heap:
+Adaugam nodul: 5 
+5 
+
+
+Adaugam nodul: 3 
+3 5 
+
+
+Adaugam nodul: 7 
+7 
+3 5 
+
+
+Adaugam nodul: 9 
+3 7 9 5 
+
+
+Adaugam nodul: 2 
+2 
+3 7 9 5 
+
+
+Minim: 2
+
+Stergem Minimul: 
+3 7 9 5 
+
+
+Minim: 3
+
+Adaugam nodul: 0 
+0 
+3 7 9 5 
+
+
+Minim: 0
+
+Stergem Minimul: 
+3 7 9 5 
+
+
+Minim: 3
+
+Stergem nodul: 5 
+3 
+7 9 
+
+
+Minim: 3
+
+Stergem nodul: 3 
+7 9 
+
+
+Minim: 7
+
