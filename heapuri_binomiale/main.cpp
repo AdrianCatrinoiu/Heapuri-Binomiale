@@ -246,6 +246,7 @@ void afisare_heap(list<Nod*> heap)
     while (rad != heap.end())
     {
         afisare_arbore(*rad);
+        fout<<'\n';
         rad++;
     }
     fout<<'\n';
