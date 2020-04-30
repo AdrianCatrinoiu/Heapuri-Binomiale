@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588267499 source:c:\users\adrian\desktop\tema sd-heapuri binomiale\heapuri_binomiale\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+
